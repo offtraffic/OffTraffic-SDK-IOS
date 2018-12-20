@@ -14,10 +14,11 @@ Code:
 import OffTraffic
 
 //use this function to initialize the sdk, replace <000> and <00> with your own values (publisher id and placement id)
-
 OffTraffic.shared.setup(key: <000>, placement: <00>, vc: self)
+
 //use this function to download interstitials locally
 OffTraffic.shared.getAds()
+
 //use this function to show an interstitial
 OffTraffic.shared.showAd(vc: self)
 
