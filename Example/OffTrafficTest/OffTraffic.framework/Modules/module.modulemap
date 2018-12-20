@@ -1,0 +1,11 @@
+framework module OffTraffic {
+  umbrella header "OffTraffic.h"
+
+  export *
+  module * { export * }
+}
+
+module OffTraffic.Swift {
+    header "OffTraffic-Swift.h"
+    requires objc
+}
