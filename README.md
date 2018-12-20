@@ -1,6 +1,3 @@
-
-The official iOS SDK for OffTraffic.io  
-
 This is the official OffTraffic.io iOS SDK  
 
 In order to download the latest .framework file go here: https://github.com/offtraffic/OffTraffic-SDK-IOS/tree/master/Framework
